@@ -1,1 +1,2 @@
 my first git project
+updated text from new branch
